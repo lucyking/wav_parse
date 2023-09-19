@@ -16,7 +16,7 @@ fileName_prefix = int(time.time())
 plt.savefig(str(fileName_prefix) + '_plot.png')
 ```
 
-eg. ![png1](1695116877_plot.png)
+eg. [1695116877_plot.png](https://raw.githubusercontent.com/lucyking/wav_parse/main/1695116877_plot.png) ![png1](1695116877_plot.png)
 
 
 ### 4. Dependence
