@@ -20,7 +20,7 @@ eg. [1695116877_plot.png](https://raw.githubusercontent.com/lucyking/wav_parse/m
 
 
 ### 4. Dependence
-Install these python 3rd libs if neceaasry.
+Install these python 3rd libs if necessary.
 ```
 import pylab as pl
 from scipy.io import wavfile
